@@ -1,0 +1,10 @@
+#txt2img_aspect_ratio_neo,
+#img2img_aspect_ratio_neo {
+    margin: 0 0 6px;
+}
+
+#txt2img_aspect_ratio_neo .gradio-dropdown,
+#img2img_aspect_ratio_neo .gradio-dropdown {
+    flex: 1 1 auto;
+    min-width: 0;
+}
